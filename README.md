@@ -43,7 +43,7 @@ Each day's entry will include:
 ## 🛠️ Tools I Will Use
 
 - Python 3.x  
-- VS Code / Jupyter Notebook  
+- VS Code 
 - Git & GitHub  
 - Additional libraries as needed  
 
