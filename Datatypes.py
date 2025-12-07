@@ -83,3 +83,20 @@ print(listOfInt)
 listOfMix = ["Linux", "Frictional", "Coding", 4, 5]
 print(listOfMix)
 
+#Third is Tuple 
+"""It is an ordered collection of Python objects"""
+
+# initiate empty tuple
+tuple1 = ()
+
+tuple2 = ('Geeks', 'For')
+print("\nTuple with the use of String: ", tuple2)
+
+tuple1 = (1, 2, 3, 4, 5)
+
+# access tuple items
+#0 is the starting index number in Tuple
+print(tuple1[0]) 
+print(tuple1[-1])
+print(tuple1[-3])
+
