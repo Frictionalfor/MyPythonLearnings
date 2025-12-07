@@ -1,0 +1,9 @@
+Here I will be writing my Task and Records which i will be doing.
+I plan here to be consistent and record everything what i will be doing.
+
+I plan here to write all my work which is done in Python from basic to advance.
+I will be doing atleast 1 one concept every day without fail.
+
+Records:-
+
+Date  - Dec 7th 2025            Basic I/O, Keywords, Datatypes
