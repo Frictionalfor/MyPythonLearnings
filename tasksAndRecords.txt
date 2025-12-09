@@ -8,3 +8,4 @@ Records:-
 
 Date  - Dec 7th 2025            Basic I/O, Keywords, Datatypes
 Date  - Dec 8th 2025            Control Statements, Loops and Looping Statements
+Date  - Dec 9th 2025            Function and Types of Functions
