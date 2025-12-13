@@ -2,13 +2,15 @@ Here I will be writing my Task and Records which i will be doing.
 I plan here to be consistent and record everything what i will be doing.
 
 I plan here to write all my work which is done in Python from basic to advance.
-I will be doing atleast 1 one concept every day without fail.
+I will be doing at least 1 one concept every day without fail.
 
 Records:-
 
-Date  - Dec 7th  2025            Basic I/O, Keywords, Datatypes
+Date  - Dec 7th  2025            Basic I/O, Keywords, Data-Types
 Date  - Dec 8th  2025            Control Statements, Loops and Looping Statements
 Date  - Dec 9th  2025            Function and Types of Functions
 Date  - Dec 10th 2025            Pass Statements and There usage
 Date  - Dec 11th 2025            Global and Local Variable
 Date  - Dec 12th 2025            Recursion 
+Date  - Dec 13th 2025            Made a Practice Problems
+Date  - Dec 
