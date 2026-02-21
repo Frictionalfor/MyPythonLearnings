@@ -5,3 +5,7 @@ import math #for getting the pi value in program
 radius = float(input("Enter the radius of circle: "))
 print("The area of circle is: ", math.pi*(radius **2))
 
+
+r1 = float(input("Enter Radius: "))
+print("Area is: ", r1*r1*3.14)
+
