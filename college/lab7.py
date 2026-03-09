@@ -16,10 +16,10 @@ def greet(name):
     return f"Hello, {name}!"    
 
 # Example usage
-radius = 5
+radius = float(input("Enter the radius of the circle: "))
 area = calculate_circle_area(radius)
 print(f"The area of a circle with radius {radius} is: {area}")
 
-name = "Swanand"
+name = input("Enter your name: ")
 greeting = greet(name)
 print(greeting)
