@@ -1,25 +1,26 @@
-"""To develop a Python program to implement the following using Functions:
-a) Built-in Functions (e.g., math, number, operator)
-b) User-Defined Functions"""
-
-
-# a) Built-in Functions
 import math
-def calculate_circle_area(radius):
-    """Calculate the area of a circle given its radius."""
-    area = math.pi * (radius ** 2)
-    return area
 
-# b) User-Defined Functions
-def greet(name):
-    """Greet the user by name."""
-    return f"Hello, {name}!"    
+def mathOperations():
+    print("Math Operations:")
+    print("Addition: a + b =", a + b)
+    print("Subtraction: a - b =", a - b)
+    print("Multiplication: a * b =", a * b)
+    print("Division: a / b =", a / b)
+    print("Power: a ** b =", math.pow(a, b))
+    print("Square Root of a: ", math.sqrt(a))
+    
+def numberOperations():
+    print("Number Operations:")
+    print("Max : ", max(a, b))
+    print("Min : ", min(a, b))
+    print("Absolute: ", abs(a))
 
-# Example usage
-radius = float(input("Enter the radius of the circle: "))
-area = calculate_circle_area(radius)
-print(f"The area of a circle with radius {radius} is: {area}")
+def main():
+    global a, b
+    a = float(input("Enter first number: "))
+    b = float(input("Enter second number: "))
 
-name = input("Enter your name: ")
-greeting = greet(name)
-print(greeting)
+    mathOperations()
+    numberOperations()
+
+main()
