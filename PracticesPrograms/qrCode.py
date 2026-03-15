@@ -1,6 +1,6 @@
 import qrcode
 
-data = "https://souta-os.vercel.app/"
+data = "https://codeforge-sandy-eight.vercel.app"
 qr = qrcode.QRCode(
     version=None,
     error_correction=qrcode.constants.ERROR_CORRECT_H,
@@ -12,5 +12,5 @@ qr.add_data(data)
 qr.make(fit=True)
 
 img = qr.make_image(fill_color="black", back_color="white")
-img.save("qrcode.png")
-print("QR code generated and saved as qrcode.png")
+img.save("qrcode2.png")
+print("QR code generated and saved as qrcode2.png")
