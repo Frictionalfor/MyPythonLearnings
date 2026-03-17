@@ -8,6 +8,7 @@ import mymodule
 
 result = mymodule.add(5, 3)
 print("Addition result:", result)
+
 difference = mymodule.subtract(5, 3)
 print("Subtraction result:", difference)
 
